@@ -1,2 +1,2 @@
-# Project-GoldenEye
+# Project-StingRay
 Instant feedback text generator.
